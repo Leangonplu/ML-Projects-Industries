@@ -33,7 +33,15 @@ As a Data Scientist by background, I present a rigorous selection of notebooks a
 
 
 ## Finance
+#### Stock
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+-
+#### P&L
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
+#### Fraud
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
