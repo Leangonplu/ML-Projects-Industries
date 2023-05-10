@@ -8,25 +8,17 @@ As a Data Scientist by background, I present a rigorous selection of notebooks a
 *Help Wanted: If there are contributors willing to help fill out and maintain a Python analysis section in any of the following sectors and industries, please contact me. I can also be contacted to add additional industries. The goal is to work together to create a useful and up-to-date resource for the Python community.*
 
 
-# Catálogo de Recursos de Machine Learning
-
-| Recurso | Descripción | Enlace |
-| ------- | ----------- | ------ |
-| Awesome Machine Learning | Una lista de recursos para aprender y aplicar Machine Learning | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) |
-| Kaggle | Una plataforma para acceder a conjuntos de datos y competir en desafíos de Machine Learning | [kaggle.com](https://www.kaggle.com/) |
-| TensorFlow | Una biblioteca de aprendizaje automático de código abierto desarrollada por Google | [tensorflow.org](https://www.tensorflow.org/) |
-| Scikit-learn | Una biblioteca de aprendizaje automático de código abierto para Python | [scikit-learn.org](https://scikit-learn.org/stable/) |
-| Coursera Machine Learning | Un curso en línea de aprendizaje automático ofrecido por la Universidad de Stanford | [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning) |
+# Machine Learning Application Catalog
+(*inspired by awesome-machine-learning*)
 
 
-| Recurso | Descripción | Enlace |
-| ------- | ----------- | ------ |
-| TensorFlow | Biblioteca de aprendizaje automático de código abierto | https://www.tensorflow.org/ |
-| PyTorch | Biblioteca de aprendizaje automático de código abierto | https://pytorch.org/ |
-| Keras | Biblioteca de aprendizaje automático de alto nivel | https://keras.io/ |
-| Scikit-learn | Biblioteca de aprendizaje automático para Python | https://scikit-learn.org/ |
-| Pandas | Biblioteca de análisis de datos para Python | https://pandas.pydata.org/ |
-| Seaborn | Biblioteca de visualización de datos para Python | https://seaborn.pydata.org/ |
+|         |         |         |
+| ------- | ------- | ------- |
+| [Finance](https://github.com/josephmisiti/awesome-machine-learning) | [Banking & Insurance](https://github.com/josephmisiti/awesome-machine-learning) | [Accounting](https://github.com/josephmisiti/awesome-machine-learning) |
+| [Social Networks](https://github.com/josephmisiti/awesome-machine-learning) | [Wholesale & Retail](https://github.com/josephmisiti/awesome-machine-learning) | [Agriculture](https://github.com/josephmisiti/awesome-machine-learning) |
+| [Utilities](https://github.com/josephmisiti/awesome-machine-learning) | [Real Estate, Rental & Leasing](https://github.com/josephmisiti/awesome-machine-learning) | [Healthcare](https://github.com/josephmisiti/awesome-machine-learning) |
+| [Education & Research](https://github.com/josephmisiti/awesome-machine-learning) | [Accommodation & Food](https://github.com/josephmisiti/awesome-machine-learning) | [Justice & Law](https://github.com/josephmisiti/awesome-machine-learning) |
+| [Construction](https://github.com/josephmisiti/awesome-machine-learning) | [Biotechnological & Life Sciences](https://github.com/josephmisiti/awesome-machine-learning) | [Government & Public Works](https://github.com/josephmisiti/awesome-machine-learning) |
 
 
 # Catálogo de recursos de Aprendizaje Automático
