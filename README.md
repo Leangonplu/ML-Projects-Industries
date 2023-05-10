@@ -28,80 +28,81 @@ As a Data Scientist by background, I present a rigorous selection of notebooks a
 - [Finance](https://www.tensorflow.org/)
   - [Stock](https://pytorch.org/)
   - [P&L](https://keras.io/)
+  - [Fraud](https://keras.io/)
 
 
 
-# Finance
-
-- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
-- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
-
-# Banking & Insurance
+## Finance
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Accounting
+## Banking & Insurance
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Social Networks
+## Accounting
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Wholesale & Retail
+## Social Networks
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Agriculture
+## Wholesale & Retail
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Utilities
+## Agriculture
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Real Estate, Rental & Leasing
+## Utilities
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Healthcare
+## Real Estate, Rental & Leasing
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Education & Research
+## Healthcare
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Acommodation & Food
+## Education & Research
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Justice & Law
+## Acommodation & Food
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Construction
+## Justice & Law
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Biotechnological & Life Sciences
+## Construction
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-# Government & Public Works
+## Biotechnological & Life Sciences
+
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+
+## Government & Public Works
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
