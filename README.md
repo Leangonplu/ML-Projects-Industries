@@ -8,7 +8,7 @@ As a Data Scientist by background, I present a rigorous selection of notebooks a
 *Help Wanted: If there are contributors willing to help fill out and maintain a Python analysis section in any of the following sectors and industries, please contact me. I can also be contacted to add additional industries. The goal is to work together to create a useful and up-to-date resource for the Python community.*
 
 
-# Machine Learning Application Catalog
+# Machine Learning Application & Data Science Catalog
 (*inspired by awesome-machine-learning*)
 
 
