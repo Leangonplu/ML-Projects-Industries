@@ -21,37 +21,89 @@ As a Data Scientist by background, I present a rigorous selection of notebooks a
 | [Construction](https://github.com/josephmisiti/awesome-machine-learning) | [Biotechnological & Life Sciences](https://github.com/josephmisiti/awesome-machine-learning) | [Government & Public Works](https://github.com/josephmisiti/awesome-machine-learning) |
 
 
-# Catálogo de recursos de Aprendizaje Automático
+# Table of Contents
+
+## Industries & Sectors Applications
+
+- [Finance](https://www.tensorflow.org/)
+  - [Stock](https://pytorch.org/)
+  - [P&L](https://keras.io/)
+ - [Banking & Insurance](https://www.tensorflow.org/)
+  - [Risk](https://pytorch.org/)
+  - [Seguryti](https://keras.io/)
+
+
+# Finance
 
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
-- [Scikit-learn](https://scikit-learn.org/): Biblioteca de aprendizaje automático para Python.
-- [Keras](https://keras.io/): Biblioteca de aprendizaje automático de alto nivel.
-- [Pandas](https://pandas.pydata.org/): Biblioteca de análisis de datos para Python.
-- [Seaborn](https://seaborn.pydata.org/): Biblioteca de visualización de datos para Python.
-- [Theano](http://deeplearning.net/software/theano/): Biblioteca de aprendizaje automático para Python.
 
+# Banking & Insurance
 
-# Catálogo de recursos de aprendizaje automático
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-## Bibliotecas de aprendizaje automático
+# Accounting
 
-- [TensorFlow](https://www.tensorflow.org/)
-- [PyTorch](https://pytorch.org/)
-- [Keras](https://keras.io/)
-- [Scikit-learn](https://scikit-learn.org/)
-- [XGBoost](https://xgboost.readthedocs.io/en/latest/)
-- [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-## Conjuntos de datos de aprendizaje automático
+# Social Networks
 
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
-- [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [Google Dataset Search](https://datasetsearch.research.google.com/)
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
-## Tutoriales y cursos de aprendizaje automático
+# Wholesale & Retail
 
-- [Machine Learning Crash Course de Google](https://developers.google.com/machine-learning/crash-course)
-- [Fast.ai](https://www.fast.ai/)
-- [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
+# Agriculture
+
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+
+# Utilities
+
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+
+# Real Estate, Rental & Leasing
+
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+
+# Healthcare
+
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+
+# Education & Research
+
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+
+# Acommodation & Food
+
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+
+# Justice & Law
+
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+
+# Construction
+
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+
+# Biotechnological & Life Sciences
+
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+
+# Government & Public Works
+
+- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
