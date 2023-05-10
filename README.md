@@ -28,9 +28,7 @@ As a Data Scientist by background, I present a rigorous selection of notebooks a
 - [Finance](https://www.tensorflow.org/)
   - [Stock](https://pytorch.org/)
   - [P&L](https://keras.io/)
- - [Banking & Insurance](https://www.tensorflow.org/)
-  - [Risk](https://pytorch.org/)
-  - [Seguryti](https://keras.io/)
+
 
 
 # Finance
