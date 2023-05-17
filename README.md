@@ -29,14 +29,20 @@ As a Data Scientist by background, I present a rigorous selection of notebooks a
   - [Stock](https://pytorch.org/)
   - [P&L](https://keras.io/)
   - [Fraud](https://keras.io/)
+  - [Mora](https://keras.io/)
 
-
+- [Wholesale & Retail](https://www.tensorflow.org/)
+  - [E-Commerce](https://pytorch.org/)
+  - [Logistic](https://keras.io/)
+ 
 
 ## Finance
 #### Stock
-- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
-- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
--
+- [Stock](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [P&L](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+- [Fraud](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+- [Mora](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+
 #### P&L
 - [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
@@ -62,8 +68,8 @@ As a Data Scientist by background, I present a rigorous selection of notebooks a
 
 ## Wholesale & Retail
 
-- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
-- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+- [E-Commerce](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [Logistic](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
 ## Agriculture
 
