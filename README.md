@@ -44,12 +44,13 @@ As a Data Scientist by background, I present a rigorous selection of notebooks a
 - [Mora](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
 #### P&L
-- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
-- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+- [P&L](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 
 #### Fraud
-- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
-- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+- [Fraus](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+
+#### Mora
+- [Mora](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
 
 ## Banking & Insurance
 
@@ -67,8 +68,10 @@ As a Data Scientist by background, I present a rigorous selection of notebooks a
 - [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
 ## Wholesale & Retail
-
+#### E-Commercee
 - [E-Commerce](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+
+#### Logistic
 - [Logistic](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
 ## Agriculture
