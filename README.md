@@ -76,13 +76,13 @@ As a Data Scientist by background, I present a rigorous selection of notebooks a
 
 ## Agriculture
 
-- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
-- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+- [---](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [---](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
 ## Utilities
 
-- [TensorFlow](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
-- [PyTorch](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
+- [---](https://www.tensorflow.org/): Biblioteca de aprendizaje automático de código abierto.
+- [---](https://pytorch.org/): Biblioteca de aprendizaje automático de código abierto.
 
 ## Real Estate, Rental & Leasing
 
